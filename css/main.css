@@ -88,21 +88,24 @@
 }
 
 .haifu-flag {
+  position: absolute;
   wedth: 80px;
   height: 80px;
-  top: 654px;
-  left: 57px;
+  top: 37px;
+  left: 17px;
 }
 
 .group-title {
+  position: absolute;
   wedth: 867px;
   height: 62px;
   margin: 50px 5px 5px;
-  left: 137px;
-  top: 667px;
+  left: 127px;
+  top: 50px;
 }
 
 .group-text {
+  position: absolute;
   wedth:369px;
   height:130px;
   margin: 61px 44px 22px 97px;
@@ -110,6 +113,7 @@
 }
 
 .group-button {
+  position: absolute;
   wedth:150px;
   height:45px;
   margin-right: 45px;
