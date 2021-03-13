@@ -3,7 +3,7 @@
     font-size: 16px;
     border-radius: 5px;
     border: 1px solid #3A4D8F;
-    padding: 30px;
+    padding: 15px;
 }
 
 .primary-button {
@@ -11,14 +11,14 @@
     font-size: 14px;
     border-radius: 5px;
     background-color: #03B4C6;
-    padding: 30px;
+    padding: 15px;
 }
 
 .primary-light-button {
     color: #3A4D8F;
     font-size: 14px;
     border-redius: 3px;
-    padding: 30px;
+    padding: 15px;
 }
 
 .secondary-button {
@@ -26,5 +26,5 @@
     font-size: 16px;
     border-redius: 5px;
     background-color: #3A4D8F;
-    padding: 30px;
+    padding: 15px;
 }
