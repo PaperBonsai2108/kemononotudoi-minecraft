@@ -97,19 +97,19 @@
 .group-title {
   wedth: 867px;
   height: 62px;
-  margin: 50px 5px 402px 30px;
+  margin: 50px 5px 5px 30px;
 }
 
-.haifu-youtube {
+.group-text {
   wedth:369px;
   height:130px;
-  top:795px;
-  left:137px;
+  margin: 61px 44px 22px 97px;
 }
 
-.haifu-jump {
+.group-button {
   wedth:150px;
   height:45px;
-  top:947px;
-  left: 356px;
+  margin-right: 45px;
+  margin-bottom: 138px;
+  margin-left: 316px;
 }
