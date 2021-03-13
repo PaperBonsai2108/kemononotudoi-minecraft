@@ -4,6 +4,7 @@
     border-radius: 5px;
     border: 1px solid #3A4D8F;
     padding: 15px;
+    background-color:white;
 }
 
 .primary-button {
@@ -19,6 +20,7 @@
     font-size: 14px;
     border-redius: 3px;
     padding: 15px;
+    background-color:white;
 }
 
 .secondary-button {
