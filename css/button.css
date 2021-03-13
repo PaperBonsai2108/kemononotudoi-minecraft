@@ -20,3 +20,11 @@
     border-redius: 3px;
     padding: 30px;
 }
+
+.secondary-button {
+    color: #3A4D8F;
+    font-size: 16px;
+    border-redius: 5px;
+    background-color: #3A4D8F;
+    padding: 30px;
+}
