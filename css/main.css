@@ -8,14 +8,14 @@
   backgroung-color: white;
   height: 450px;
   wedth: 1080px;
-  margin-top: 111px;
+  top: 111px;
 }
 
 .hero-content {
   backgroung-color: white;
   height: 380px;
   wedth: 1000px;
-  margin-top: 27px;
+  top: 27px;
   margin-left: 40px;
 }
 
@@ -23,7 +23,7 @@
   backgroung-color: white;
   height: 320px;
   wedth: 480px;
-  margin-top: 40px;
+  top: 40px;
 }
 
 .kemononotudoi {
@@ -41,7 +41,48 @@
 .image-hero {
   wedth: 520px;
   height: 304px;
-  margin-left: 480px;
-  margin-top: 47px;
+  left: 520px;
+  top: 185px;
 }
   
+.ui-elements {
+  wedth: 1000px;
+  height:514px;
+  top: 617px;
+  margin-left: 40px;
+}
+
+.ui-elements-2 {
+  wedth: 1000px;
+  height:514px;
+  top: 1181px;
+  margin-left: 40px;
+}
+
+.ui-elements-3 {
+  wedth: 1000px;
+  height:514px;
+  top: 1749px;
+  margin-left: 40px;
+}
+
+.ui-elements-3 {
+  wedth: 1000px;
+  height:514px;
+  top: 2319px;
+  margin-left: 40px;
+}
+
+.twitter {
+  wedth: 441px;
+  height:602px;
+  top: 2886px;
+  margin-left: 57px;
+}
+
+.event {
+  wedth: 441px;
+  height:602px;
+  top: 2886px;
+  left: 570px;
+}
