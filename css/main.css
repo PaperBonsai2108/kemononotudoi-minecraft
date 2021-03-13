@@ -94,11 +94,10 @@
   left: 57px;
 }
 
-.haifu {
+.group-title {
   wedth: 867px;
   height: 62px;
-  top: 667px;
-  left: 167px;
+  margin: 50px 5px 402px 30px;
 }
 
 .haifu-youtube {
