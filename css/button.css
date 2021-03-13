@@ -1,0 +1,13 @@
+.outline-button {
+    color: #3A4D8F;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #3A4D8F;
+}
+
+.primary-button {
+    color: #FFFFFF;
+    font-size: 14px;
+    border-radius: 5px;
+    background-color: #03B4C6;
+}
