@@ -95,4 +95,22 @@
 }
 
 .haifu {
+  wedth: 867px;
+  height: 62px;
+  top: 667px;
+  left: 167px;
+}
+
+.haifu-youtube {
+  wedth:369px;
+  height:130px;
+  top:795px;
+  left:137px;
+}
+
+.haifu-jump {
+  wedth:150px;
+  height:45px;
+  top:947px;
+  left: 356px;
 }
