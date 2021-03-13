@@ -26,6 +26,13 @@
   line-height: 1.5px;
 }
 
+.section-heading {
+  font-size: 20px;
+  color: #091747;
+  text-align: left;
+  line-height: 1.5px;
+}
+
 .small-title {
   font-size: 16px;
   color: #3A4D8F;
