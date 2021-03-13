@@ -5,40 +5,50 @@
 }
 
 .hero-image {
+  position: absolute;
   backgroung-color: white;
   height: 450px;
   wedth: 1080px;
   top: 111px;
+  left: 0px;
 }
 
 .hero-content {
+  position: absolute;
   backgroung-color: white;
   height: 380px;
   wedth: 1000px;
-  top: 27px;
-  margin-left: 40px;
+  top: 138px;
+  left: 40px;
 }
 
 .content {
+  position: absolute;
   backgroung-color: white;
   height: 320px;
   wedth: 480px;
-  top: 40px;
+  top: 178px;
+  left: 40px;
 }
 
 .kemononotudoi {
+  position: absolute;
   height: 67px;
   wedth: 480px;
   top: 187px;
+  left: 40px;
 }
 
 .minecraft {
+  position: absolute;
   height: 67px;
   wedth: 480px;
   top: 254px;
+  left: 40px;
 }
 
 .image-hero {
+  position: absolute;
   wedth: 520px;
   height: 304px;
   left: 520px;
