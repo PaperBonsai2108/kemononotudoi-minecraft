@@ -46,10 +46,11 @@
 }
   
 .ui-elements {
+  position: absolute;
   wedth: 1000px;
   height:514px;
   top: 617px;
-  margin-left: 40px;
+  left: 40px;
 }
 
 .ui-elements-2 {
