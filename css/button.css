@@ -12,3 +12,9 @@
     border-radius: 5px;
     background-color: #03B4C6;
 }
+
+.primary-light-button {
+    color: #3A4D8F;
+    font-size: 14px;
+    border-redius: 3px;
+}
