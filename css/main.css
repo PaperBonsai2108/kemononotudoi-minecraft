@@ -120,6 +120,7 @@
   position: absolute;
   wedth: 369px;
   height: 130px;
+  min-width: 55%;
   top: 795px;
   left: 137px;
 }
@@ -160,6 +161,7 @@
   position: absolute;
   wedth: 163px;
   height: 62px;
+  min-width: 55%;
   top: 1377px;
   left: 599px;
 }
@@ -201,6 +203,7 @@
   position: absolute;
   wedth: 369px;
   height: 130px;
+  min-width: 55%;
   top: 1927px;
   left: 137px;
 }
