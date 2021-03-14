@@ -179,3 +179,44 @@
   top: 1319px;
   left: 91px;
 }
+
+.blog-flag {
+  position: absolute;
+  wedth: 80px;
+  height: 80px;
+  top: 1786px;
+  left: 57px;
+}
+
+.group-title {
+  position: absolute;
+  wedth: 867px;
+  height: 62px;
+  margin: 50px 5px 5px;
+  left: 167px;
+  top: 1799px;
+}
+
+.group-text {
+  position: absolute;
+  wedth: 369px;
+  height: 130px;
+  top: 1927px;
+  left: 137px;
+}
+
+.group-button {
+  position: absolute;
+  wedth: 150px;
+  height: 45px;
+  top: 2079px;
+  left: 356px;
+}
+
+.group-image {
+  position: absolute;
+  wedth: 460px;
+  height: 319px;
+  top: 1866px;
+  left: 551px;
+}
