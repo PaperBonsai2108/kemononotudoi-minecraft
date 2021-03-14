@@ -52,7 +52,7 @@
   position: absolute;
   wedth: 520px;
   height: 304px;
-  right: 40px;
+  left: 570px;
   top: 48px;
 }
   
@@ -226,4 +226,28 @@
 
 br {
   margin-bottom: 2px;
+}
+
+.attention-flag {
+  position: absolute;
+  wedth: 80px;
+  height: 80px;
+  top: 2356px;
+  left: 57px;
+}
+
+.group-title4 {
+  position: absolute;
+  wedth: 867px;
+  height: 62px;
+  margin: 50px 5px 5px;
+  left: 167px;
+  top: 2369px;
+}
+
+.group-text4 {
+  position: absolute;
+  wedth: 180px;
+  height: 24px;
+  margin: 5px;
 }
