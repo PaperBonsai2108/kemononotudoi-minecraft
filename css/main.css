@@ -251,3 +251,37 @@ br {
   height: 24px;
   margin: 5px;
 }
+
+.twitter-flag {
+  position: absolute;
+  wedth: 80px;
+  height: 80px;
+  top: 2919px;
+  left: 66px;
+}
+
+.group-title-twitter {
+  position: absolute;
+  wedth: 867px;
+  height: 62px;
+  margin: 50px 5px 5px;
+  left: 178px;
+  top: 2924px;
+}
+
+.event-flag {
+  position: absolute;
+  wedth: 80px;
+  height: 80px;
+  top: 2919px;
+  right: 413px;
+}
+
+.group-title-event {
+  position: absolute;
+  wedth: 867px;
+  height: 62px;
+  margin: 50px 5px 5px;
+  right: 122px;
+  top: 2924px;
+}
