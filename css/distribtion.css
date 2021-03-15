@@ -1,3 +1,7 @@
 .hero-text {
   position: relative;
+  height: 78px;
+  wedth: 480px;
+  top: 20px;
+  left: 40px;
 }
