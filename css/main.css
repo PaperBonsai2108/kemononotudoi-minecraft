@@ -205,9 +205,11 @@ br {
 }
 
 .group-text4 {
-  position: relative;
+  position: absolute;
   wedth: 180px;
   height: 24px;
+  top: 2436px;
+  left: 137px;
   margin: 5px;
 }
 
@@ -231,7 +233,7 @@ br {
 .twitter-a {
   position: absolute;
   left: 77px;
-  top: 30007;
+  top: 30007px;
 }
 
 .event-flag {
