@@ -1,3 +1,72 @@
 .group-B {
-  position: 
+  position: absolute;
+  height: 1738px;
+  wedth: 1000px;
+  top: 583px;
+  left: 40px;
+}
+
+.group-C {
+  position: absolute;
+  height: 640px;
+  wedth: 923px;
+  top: 649px;
+  left: 78px;
+}
+
+.movie-text {
+  position: absolute;
+  height: 65px;
+  wedth: 176px;
+  top: 672px;
+  left: 113px;
+}
+
+.youtube-video {
+  position: absolute;
+  height: 515x;
+  wedth: 923px;
+  top: 774px;
+  left: 78px;
+}
+
+.group-D {
+  position: absolute;
+  height: 449px;
+  wedth: 923px;
+  top: 1347px;
+  left: 78px;
+}
+
+.download-text {
+  position: absolute;
+  height: 58px;
+  wedth: 207px;
+  top: 1382px;
+  left: 638px;
+}
+
+.group-tab {
+  background-color: white;
+  position: absolute;
+  height: 433px;
+  wedth: 903px;
+  top: 1357px;
+  left: 89px
+}
+
+.group-E {
+  position: absolute;
+  height: 1738px;
+  wedth: 1000px;
+  top: 583px;
+  left: 40px;
+}
+
+.news-text {
+  position: absolute;
+  height: 65px;
+  wedth: 355px;
+  top: 1859px;
+  left: 133px;
 }
