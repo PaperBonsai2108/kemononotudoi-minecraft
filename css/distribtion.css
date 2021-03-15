@@ -43,7 +43,7 @@
   height: 236px;
   wedth: 424px;
   top: 681px;
-  right: 141px;
+  left: 530px;
 }
 
 .group-D {
@@ -59,7 +59,7 @@
   height: 55px;
   wedth: 216px;
   top: 1056px;
-  right: 257px;
+  left: 610px;
 }
 
 .button-mod {
@@ -67,7 +67,7 @@
   height: 45px;
   wedth: 150px;
   top: 1268px;
-  right: 323px;
+  left: 610px;
 }
 
 .img-mod {
@@ -107,7 +107,7 @@
   height: 236px;
   wedth: 424px;
   top: 1475px;
-  right: 141px;
+  left: 530px;
 }
 
 .group-F {
@@ -123,7 +123,7 @@
   height: 55px;
   wedth: 216px;
   top: 1849px;
-  right: 257px;
+  left: 610px;
 }
 
 .button-world {
@@ -131,7 +131,7 @@
   height: 45px;
   wedth: 150px;
   top: 2061px;
-  right: 323px;
+  left: 610px;
 }
 
 .img-world {
@@ -171,7 +171,7 @@
   height: 236px;
   wedth: 424px;
   top: 2270px;
-  right: 141px;
+  left: 530px;
 }
 
 .group-H {
@@ -187,7 +187,7 @@
   height: 55px;
   wedth: 216px;
   top: 2648px;
-  right: 257px;
+  left: 610px;
 }
 
 .button-plugin {
@@ -195,7 +195,7 @@
   height: 45px;
   wedth: 150px;
   top: 2860px;
-  right: 323px;
+  left: 610px;
 }
 
 .img-plugin {
@@ -235,5 +235,5 @@
   height: 236px;
   wedth: 424px;
   top: 3069px;
-  right: 141px;
+  left: 530px;
 }
