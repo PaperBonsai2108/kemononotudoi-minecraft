@@ -228,6 +228,12 @@ br {
   top: 2924px;
 }
 
+.twitter-a {
+  position: absolute;
+  left: 77px;
+  top: 30007;
+}
+
 .event-flag {
   position: absolute;
   wedth: 80px;
