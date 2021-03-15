@@ -40,8 +40,6 @@
 
 .img-addon {
   position: absolute;
-  height: 236px;
-  wedth: 424px;
   top: 681px;
   left: 530px;
 }
@@ -72,8 +70,6 @@
 
 .img-mod {
   position: absolute;
-  height: 236px;
-  wedth: 424px;
   top: 1077px;
   left: 110px;
 }
@@ -104,8 +100,6 @@
 
 .img-datapack {
   position: absolute;
-  height: 236px;
-  wedth: 424px;
   top: 1475px;
   left: 530px;
 }
@@ -136,8 +130,6 @@
 
 .img-world {
   position: absolute;
-  height: 236px;
-  wedth: 424px;
   top: 1870px;
   left: 110px;
 }
@@ -168,8 +160,6 @@
 
 .img-shaders {
   position: absolute;
-  height: 236px;
-  wedth: 424px;
   top: 2270px;
   left: 530px;
 }
@@ -200,8 +190,6 @@
 
 .img-plugin {
   position: absolute;
-  height: 236px;
-  wedth: 424px;
   top: 2670px;
   left: 110px;
 }
@@ -232,8 +220,6 @@
 
 .img-texture {
   position: absolute;
-  height: 236px;
-  wedth: 424px;
   top: 3069px;
   left: 530px;
 }
