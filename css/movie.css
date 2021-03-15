@@ -22,6 +22,7 @@
 
 .movie-text {
   position: absolute;
+  margin: 50px 5px 5px;
   height: 75px;
   wedth: 200px;
   top: 672px;
@@ -46,6 +47,7 @@
 
 .download-text {
   position: absolute;
+  margin: 50px 5px 5px;
   top: 1382px;
   left: 638px;
 }
@@ -69,6 +71,7 @@
 
 .news-text {
   position: absolute;
+  margin: 50px 5px 5px;
   top: 1859px;
   left: 133px;
 }
