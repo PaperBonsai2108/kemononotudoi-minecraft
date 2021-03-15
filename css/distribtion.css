@@ -1,7 +1,239 @@
 .hero-text {
   position: relative;
-  height: 78px;
+  height: 40px;
   wedth: 480px;
   top: 20px;
   left: 40px;
+}
+
+.group-B {
+  position: absolute;
+  height: 2968px;
+  wedth: 1000px;
+  top: 583px;
+  left: 40px;
+}
+
+.group-C {
+  position: absolute;
+  height: 364px;
+  wedth: 960px;
+  top: 617px;
+  left: 55px;
+}
+
+.text-addon {
+  position: absolute;
+  height: 55px;
+  wedth: 216px;
+  top: 659px;
+  left: 110px;
+}
+
+.button-addon {
+  position: absolute;
+  height: 45px;
+  wedth: 150px;
+  top: 900px;
+  left: 110px;
+}
+
+.img-addon {
+  position: absolute;
+  height: 236px;
+  wedth: 424px;
+  top: 681px;
+  right: 141px;
+}
+
+.group-D {
+  position: absolute;
+  height: 364px;
+  wedth: 960px;
+  top: 1014px;
+  left: 55px;
+}
+
+.text-mod {
+  position: absolute;
+  height: 55px;
+  wedth: 216px;
+  top: 1056px;
+  right: 257px;
+}
+
+.button-mod {
+  position: absolute;
+  height: 45px;
+  wedth: 150px;
+  top: 1268px;
+  right: 323px;
+}
+
+.img-mod {
+  position: absolute;
+  height: 236px;
+  wedth: 424px;
+  top: 1077px;
+  left: 110px;
+}
+
+.group-E {
+  position: absolute;
+  height: 364px;
+  wedth: 960px;
+  top: 1411px;
+  left: 55px;
+}
+
+.text-datapack {
+  position: absolute;
+  height: 55px;
+  wedth: 216px;
+  top: 1453px;
+  left: 110px;
+}
+
+.button-datapack {
+  position: absolute;
+  height: 45px;
+  wedth: 150px;
+  top: 1694px;
+  left: 110px;
+}
+
+.img-datapack {
+  position: absolute;
+  height: 236px;
+  wedth: 424px;
+  top: 1475px;
+  right: 141px;
+}
+
+.group-F {
+  position: absolute;
+  height: 364px;
+  wedth: 960px;
+  top: 1807px;
+  left: 55px;
+}
+
+.text-world {
+  position: absolute;
+  height: 55px;
+  wedth: 216px;
+  top: 1849px;
+  right: 257px;
+}
+
+.button-world {
+  position: absolute;
+  height: 45px;
+  wedth: 150px;
+  top: 2061px;
+  right: 323px;
+}
+
+.img-world {
+  position: absolute;
+  height: 236px;
+  wedth: 424px;
+  top: 1870px;
+  left: 110px;
+}
+
+.group-G {
+  position: absolute;
+  height: 364px;
+  wedth: 960px;
+  top: 2206px;
+  left: 55px;
+}
+
+.text-shaders {
+  position: absolute;
+  height: 55px;
+  wedth: 216px;
+  top: 2248px;
+  left: 110px;
+}
+
+.button-shaders {
+  position: absolute;
+  height: 45px;
+  wedth: 150px;
+  top: 2489px;
+  left: 110px;
+}
+
+.img-shaders {
+  position: absolute;
+  height: 236px;
+  wedth: 424px;
+  top: 2270px;
+  right: 141px;
+}
+
+.group-H {
+  position: absolute;
+  height: 364px;
+  wedth: 960px;
+  top: 2606px;
+  left: 55px;
+}
+
+.text-plugin {
+  position: absolute;
+  height: 55px;
+  wedth: 216px;
+  top: 2648px;
+  right: 257px;
+}
+
+.button-plugin {
+  position: absolute;
+  height: 45px;
+  wedth: 150px;
+  top: 2860px;
+  right: 323px;
+}
+
+.img-plugin {
+  position: absolute;
+  height: 236px;
+  wedth: 424px;
+  top: 2670px;
+  left: 110px;
+}
+
+.group-I {
+  position: absolute;
+  height: 364px;
+  wedth: 960px;
+  top: 3005px;
+  left: 55px;
+}
+
+.text-texture {
+  position: absolute;
+  height: 55px;
+  wedth: 216px;
+  top: 3047px;
+  left: 110px;
+}
+
+.button-texture {
+  position: absolute;
+  height: 45px;
+  wedth: 150px;
+  top: 3288px;
+  left: 110px;
+}
+
+.img-texture {
+  position: absolute;
+  height: 236px;
+  wedth: 424px;
+  top: 3069px;
+  right: 141px;
 }
