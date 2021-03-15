@@ -1,0 +1,41 @@
+.index {
+  background-color: #FAFAFA;
+  wedth: 1080px;
+  height: 4018px;
+}
+
+.hero-image {
+  position: absolute;
+  backgroung-color: white;
+  height: 450px;
+  wedth: 1080px;
+  top: 74px;
+  left: 0px;
+}
+
+.hero-content {
+  position: absolute;
+  backgroung-color: white;
+  height: 380px;
+  wedth: 1000px;
+  top: 92px;
+  left: 40px;
+}
+
+.content {
+  position: absolute;
+  backgroung-color: white;
+  height: 320px;
+  wedth: 480px;
+  top: 118px;
+  left: 40px;
+}
+
+.kemononotudoi {
+  position: relative;
+  height: 67px;
+  wedth: 480px;
+  top: 10px;
+  left: 40px;
+}
+
